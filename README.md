@@ -6,6 +6,7 @@ My name is Bruno Carvalho and I'm Quality Software Engineer:
 
 - :book: I'm currently improvement my Java and Spring
 - :smile: I'm enthusiast about development :mobile_phone_off:
+- :blush: I'm currently working in largest Bank of Brazil 🧡
 
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@brunocarvalhodesa/)](https://medium.com/@brunocarvalhodesa/)
