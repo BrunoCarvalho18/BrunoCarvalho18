@@ -4,7 +4,7 @@
 
 My name is Bruno Carvalho and I'm Quality Software Engineer:
 
-- I'm currently improvement my Java and Spring
+- :book: I'm currently improvement my Java and Spring
 - :smile: I'm enthusiast about development :mobile_phone_off:
 
 
