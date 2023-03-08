@@ -6,7 +6,7 @@ My name is Bruno Carvalho and I'm Quality Software Engineer:
 
 - :book:    I'm currently improving my Java and Spring
 - :smile:   I'm enthusiastic about development :mobile_phone_off:
-- :relaxed: I'm currently working with Java + Appium + Junit and Cucumber
+- :relaxed: I'm currently working with Java + Appium + Selenium +Junit and Cucumber
 - :star:    I've just finished post-graduation in Software Engineering at a renowmed college FIAP 🎓
 - :dizzy:   Open-Source :heart: :heart:
 
